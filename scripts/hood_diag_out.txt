@@ -1,0 +1,45 @@
+﻿blender.exe : TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+所在位置 行:1 字符: 35
++ ... top\01app'; & 'D:\Blender Foundation\Blender 4.2\blender.exe' -b -P ' ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (TBBmalloc: skip...function _msize:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Reloading external rigs...
+Reloading external metarigs...
+🔄 blenderkit: Verbose is enabled
+🔄 blenderkit: Read in JSON settings from file
+Substance 3D in Blender: INFO - Shader Presets [01 cycles_std.json] initialized...
+Substance 3D in Blender: INFO - Shader Presets [02 cycles_prj_box.json] initialized...
+Substance 3D in Blender: INFO - Shader Presets [03 cycles_prj_sphere.json] initialized...
+Substance 3D in Blender: INFO - Shader Presets [04 cycles_prj_tube.json] initialized...
+Substance 3D in Blender: INFO - Shader Presets [05 cycles_phy_size.json] initialized...
+Substance 3D in Blender: INFO - Shader Presets initialized...
+ℹ️  blenderkit: Unregistering BlenderKit add-on [11:47:01.443, __init__.py:2547]
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+Error in bpy.app.handlers.load_post[2]:
+Blender 4.2.16 LTS (hash 39502cae951c built 2025-11-18 01:34:37)
+Traceback (most recent call last):
+  File "C:\Users\Joey\AppData\Roaming\Blender Foundation\Blender\4.2\extensions\blender_org\lfs_camera_plane\__init__.p
+y", line 806, in camera_plane_handler
+    if bpy.ops.camera.camera_plane_update_groups.poll():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Blender Foundation\Blender 4.2\4.2\scripts\modules\bpy\ops.py", line 83, in poll
+    return _op_poll(self.idname_py(), C_exec)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: Polling operator "bpy.ops.camera.camera_plane_update_groups" error, could not be found
+Traceback (most recent call last):
+  File "C:\Users\Joey\Desktop\01app\scripts\hood_diag.py", line 6, in <module>
+    bpy.ops.import_scene.gltf(filepath=GLB)
+  File "D:\Blender Foundation\Blender 4.2\4.2\scripts\modules\bpy\ops.py", line 109, in __call__
+    ret = _op_call(self.idname_py(), kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Error: Extension EXT_meshopt_compression is not available on this addon version
+
+Substance 3D in Blender: INFO - [Code_Response.toolkit_not_running] Toolkit not active...
+Substance 3D in Blender: INFO - Shader Presets [Cycles/Eevee Standard] saved...
+Substance 3D in Blender: INFO - Shader Presets fully removed...
+Error: Extension EXT_meshopt_compression is not available on this addon version
+
+Blender quit

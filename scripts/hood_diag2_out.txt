@@ -1,0 +1,407 @@
+﻿blender.exe : TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+所在位置 行:1 字符: 35
++ ... top\01app'; & 'D:\Blender Foundation\Blender 4.2\blender.exe' --facto ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (TBBmalloc: skip...function _msize:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+11:47:28 | INFO: Data are loaded, start creating Blender stuff
+11:47:28 | INFO: Blender create Mesh node Object_0
+11:47:28 | INFO: Blender create Mesh node Object_1
+11:47:28 | INFO: Blender create Mesh node Object_2
+11:47:28 | INFO: Blender create Mesh node Object_3
+11:47:28 | INFO: Blender create Mesh node Object_4
+11:47:28 | INFO: Blender create Mesh node Object_5
+11:47:28 | INFO: Blender create Mesh node Object_6
+11:47:28 | INFO: Blender create Mesh node Object_7
+11:47:28 | INFO: Blender create Mesh node Object_8
+11:47:28 | INFO: Blender create Mesh node Object_9
+11:47:28 | INFO: Blender create Mesh node Object_10
+11:47:28 | INFO: Blender create Mesh node Object_11
+11:47:28 | INFO: Blender create Mesh node Object_12
+11:47:28 | INFO: Blender create Mesh node Object_13
+11:47:28 | INFO: Blender create Mesh node Object_14
+11:47:28 | INFO: Blender create Mesh node Object_15
+11:47:28 | INFO: Blender create Mesh node Object_16
+11:47:28 | INFO: Blender create Mesh node Object_17
+11:47:28 | INFO: Blender create Mesh node Object_18
+11:47:28 | INFO: Blender create Mesh node Object_19
+11:47:28 | INFO: Blender create Mesh node Object_20
+11:47:28 | INFO: Blender create Mesh node Object_21
+11:47:28 | INFO: Blender create Mesh node Object_22
+11:47:28 | INFO: Blender create Mesh node Object_23
+11:47:28 | INFO: Blender create Mesh node Object_24
+11:47:28 | INFO: Blender create Mesh node Object_25
+11:47:28 | INFO: Blender create Mesh node Object_26
+11:47:28 | INFO: Blender create Mesh node Object_27
+11:47:28 | INFO: Blender create Mesh node Object_28
+11:47:28 | INFO: Blender create Mesh node Object_29
+11:47:28 | INFO: Blender create Mesh node Object_30
+11:47:28 | INFO: Blender create Mesh node Object_31
+11:47:28 | INFO: Blender create Mesh node Object_32
+11:47:28 | INFO: Blender create Mesh node Object_33
+11:47:28 | INFO: Blender create Mesh node Object_34
+11:47:28 | INFO: Blender create Mesh node Object_35
+11:47:29 | INFO: Blender create Mesh node Object_36
+11:47:29 | INFO: Blender create Mesh node Object_37
+11:47:29 | INFO: Blender create Mesh node Object_38
+11:47:29 | INFO: Blender create Mesh node Object_39
+11:47:29 | INFO: Blender create Mesh node Object_40
+11:47:29 | INFO: Blender create Mesh node Object_41
+11:47:29 | INFO: Blender create Mesh node Object_42
+11:47:29 | INFO: Blender create Mesh node Object_43
+11:47:29 | INFO: Blender create Mesh node Object_44
+11:47:29 | INFO: Blender create Mesh node Object_45
+11:47:29 | INFO: Blender create Mesh node Object_46
+11:47:29 | INFO: Blender create Mesh node Object_47
+11:47:29 | INFO: Blender create Mesh node Object_48
+11:47:29 | INFO: Blender create Mesh node Object_49
+11:47:29 | INFO: Blender create Mesh node Object_50
+11:47:29 | INFO: Blender create Mesh node Object_51
+11:47:29 | INFO: Blender create Mesh node Object_52
+11:47:29 | INFO: Blender create Mesh node Object_53
+11:47:29 | INFO: Blender create Mesh node Object_54
+11:47:29 | INFO: Blender create Mesh node Object_55
+11:47:29 | INFO: Blender create Mesh node Object_56
+11:47:29 | INFO: Blender create Mesh node Object_57
+11:47:29 | INFO: Blender create Mesh node Object_58
+11:47:29 | INFO: Blender create Mesh node Object_59
+11:47:29 | INFO: Blender create Mesh node Object_60
+11:47:29 | INFO: Blender create Mesh node Object_61
+11:47:29 | INFO: Blender create Mesh node Object_62
+11:47:29 | INFO: Blender create Mesh node Object_63
+11:47:29 | INFO: Blender create Mesh node Object_64
+11:47:29 | INFO: Blender create Mesh node Object_65
+11:47:29 | INFO: Blender create Mesh node Object_66
+11:47:29 | INFO: Blender create Mesh node Object_67
+11:47:29 | INFO: Blender create Mesh node Object_68
+11:47:29 | INFO: Blender create Mesh node Object_69
+11:47:29 | INFO: Blender create Mesh node Object_70
+11:47:29 | INFO: Blender create Mesh node Object_71
+11:47:29 | INFO: Blender create Mesh node Object_72
+11:47:29 | INFO: Blender create Mesh node Object_73
+11:47:29 | INFO: Blender create Mesh node Object_74
+11:47:29 | INFO: Blender create Mesh node Object_75
+11:47:29 | INFO: Blender create Mesh node Object_76
+11:47:29 | INFO: Blender create Mesh node Object_77
+11:47:29 | INFO: Blender create Mesh node Object_78
+11:47:29 | INFO: Blender create Mesh node Object_79
+11:47:29 | INFO: Blender create Mesh node Object_80
+11:47:29 | INFO: Blender create Mesh node Object_81
+11:47:29 | INFO: Blender create Mesh node Object_82
+11:47:29 | INFO: Blender create Mesh node Object_83
+11:47:29 | INFO: Blender create Mesh node Object_84
+11:47:29 | INFO: Blender create Mesh node Object_85
+11:47:29 | INFO: Blender create Mesh node Object_86
+11:47:29 | INFO: Blender create Mesh node Object_87
+11:47:29 | INFO: Blender create Mesh node Object_88
+11:47:29 | INFO: Blender create Mesh node Object_89
+11:47:29 | INFO: Blender create Mesh node Object_90
+11:47:29 | INFO: Blender create Mesh node Object_91
+11:47:29 | INFO: Blender create Mesh node Object_92
+11:47:29 | INFO: Blender create Mesh node Object_93
+11:47:29 | INFO: Blender create Mesh node Object_94
+11:47:29 | INFO: Blender create Mesh node Object_95
+11:47:29 | INFO: Blender create Mesh node Object_96
+11:47:29 | INFO: Blender create Mesh node Object_97
+11:47:29 | INFO: Blender create Mesh node Object_98
+11:47:29 | INFO: Blender create Mesh node Object_99
+11:47:29 | INFO: Blender create Mesh node Object_100
+11:47:29 | INFO: Blender create Mesh node Object_101
+11:47:29 | INFO: Blender create Mesh node Object_102
+11:47:29 | INFO: Blender create Mesh node Object_103
+11:47:29 | INFO: Blender create Mesh node Object_104
+11:47:29 | INFO: Blender create Mesh node Object_105
+11:47:29 | INFO: Blender create Mesh node Object_106
+11:47:29 | INFO: Blender create Mesh node Object_107
+11:47:29 | INFO: Blender create Mesh node Object_108
+11:47:29 | INFO: Blender create Mesh node Object_109
+11:47:29 | INFO: Blender create Mesh node Object_110
+11:47:29 | INFO: Blender create Mesh node Object_111
+11:47:29 | INFO: Blender create Mesh node Object_112
+11:47:29 | INFO: Blender create Mesh node Object_113
+11:47:29 | INFO: Blender create Mesh node Object_114
+11:47:29 | INFO: Blender create Mesh node Object_115
+11:47:29 | INFO: Blender create Mesh node Object_116
+11:47:29 | INFO: Blender create Mesh node Object_117
+11:47:29 | INFO: Blender create Mesh node Object_118
+11:47:29 | INFO: Blender create Mesh node Object_119
+11:47:29 | INFO: Blender create Mesh node Object_120
+11:47:29 | INFO: Blender create Mesh node Object_121
+11:47:29 | INFO: Blender create Mesh node Object_122
+11:47:29 | INFO: Blender create Mesh node Object_123
+11:47:29 | INFO: Blender create Mesh node Object_124
+11:47:29 | INFO: Blender create Mesh node Object_125
+11:47:29 | INFO: Blender create Mesh node Object_126
+11:47:29 | INFO: Blender create Mesh node Object_127
+11:47:29 | INFO: Blender create Mesh node Object_128
+11:47:29 | INFO: Blender create Mesh node Object_129
+11:47:29 | INFO: Blender create Mesh node Object_130
+11:47:29 | INFO: Blender create Mesh node Object_131
+11:47:29 | INFO: Blender create Mesh node Object_132
+11:47:29 | INFO: Blender create Mesh node Object_133
+11:47:29 | INFO: Blender create Mesh node Object_134
+11:47:29 | INFO: Blender create Mesh node Object_135
+11:47:29 | INFO: Blender create Mesh node Object_136
+11:47:29 | INFO: Blender create Mesh node Object_137
+11:47:29 | INFO: Blender create Mesh node Object_138
+11:47:29 | INFO: Blender create Mesh node Object_139
+11:47:29 | INFO: Blender create Mesh node Object_140
+11:47:29 | INFO: Blender create Mesh node Object_141
+11:47:29 | INFO: Blender create Mesh node Object_142
+11:47:29 | INFO: Blender create Mesh node Object_143
+11:47:29 | INFO: Blender create Mesh node Object_144
+11:47:29 | INFO: Blender create Mesh node Object_145
+11:47:29 | INFO: Blender create Mesh node Object_146
+11:47:29 | INFO: Blender create Mesh node Object_147
+11:47:29 | INFO: Blender create Mesh node Object_148
+11:47:29 | INFO: Blender create Mesh node Object_149
+11:47:29 | INFO: Blender create Mesh node Object_150
+11:47:29 | INFO: Blender create Mesh node Object_151
+11:47:29 | INFO: Blender create Mesh node Object_152
+11:47:29 | INFO: Blender create Mesh node Object_153
+11:47:29 | INFO: Blender create Mesh node Object_154
+11:47:29 | INFO: Blender create Mesh node Object_155
+11:47:30 | INFO: Blender create Mesh node Object_156
+11:47:30 | INFO: Blender create Mesh node Object_157
+11:47:30 | INFO: Blender create Mesh node Object_158
+11:47:30 | INFO: Blender create Mesh node Object_159
+11:47:30 | INFO: Blender create Mesh node Object_160
+11:47:30 | INFO: Blender create Mesh node Object_161
+11:47:30 | INFO: Blender create Mesh node Object_162
+11:47:30 | INFO: Blender create Mesh node Object_163
+11:47:30 | INFO: Blender create Mesh node Object_164
+11:47:30 | INFO: Blender create Mesh node Object_165
+11:47:30 | INFO: Blender create Mesh node Object_166
+11:47:30 | INFO: Blender create Mesh node Object_167
+11:47:30 | INFO: Blender create Mesh node Object_168
+11:47:30 | INFO: Blender create Mesh node Object_169
+11:47:30 | INFO: Blender create Mesh node Object_170
+11:47:30 | INFO: Blender create Mesh node Object_171
+11:47:30 | INFO: Blender create Mesh node Object_172
+11:47:30 | INFO: Blender create Mesh node Object_173
+11:47:30 | INFO: Blender create Mesh node Object_174
+11:47:30 | INFO: Blender create Mesh node Object_175
+11:47:30 | INFO: Blender create Mesh node Object_176
+11:47:30 | INFO: glTF import finished in 1.77s
+=== IMPORT DONE ===
+=== ALL MESHES ===
+Cube  verts=8 polys=6  bbX=(-1.00,1.00) bbY=(-1.00,1.00) bbZ=(-1.00,1.00)
+Object_10  verts=65532 polys=33555  bbX=(-0.68,0.68) bbY=(-1.25,0.18) bbZ=(0.52,1.09)
+Object_101  verts=91 polys=51  bbX=(-0.70,-0.70) bbY=(-0.48,-0.16) bbZ=(0.97,0.98)
+Object_103  verts=37780 polys=22837  bbX=(0.65,0.76) bbY=(0.16,1.01) bbZ=(0.41,1.18)
+Object_104  verts=16663 polys=11519  bbX=(0.60,0.88) bbY=(0.08,1.05) bbZ=(0.31,1.50)
+Object_105  verts=95 polys=34  bbX=(0.69,0.69) bbY=(0.43,0.43) bbZ=(0.86,0.86)
+Object_106  verts=3877 polys=2479  bbX=(0.67,0.71) bbY=(0.35,0.89) bbZ=(0.85,1.06)
+Object_107  verts=3736 polys=2568  bbX=(0.63,0.77) bbY=(0.12,1.04) bbZ=(0.99,1.48)
+Object_108  verts=2197 polys=908  bbX=(0.64,0.70) bbY=(0.30,0.83) bbZ=(0.82,0.91)
+Object_109  verts=2219 polys=913  bbX=(0.64,0.70) bbY=(0.20,0.83) bbZ=(0.52,0.91)
+Object_11  verts=30364 polys=17406  bbX=(-0.10,0.09) bbY=(-0.78,0.18) bbZ=(0.52,0.89)
+Object_110  verts=1810 polys=1246  bbX=(0.64,0.72) bbY=(0.29,0.83) bbZ=(0.82,0.91)
+Object_111  verts=786 polys=525  bbX=(0.64,0.71) bbY=(0.29,0.83) bbZ=(0.81,0.91)
+Object_112  verts=15 polys=5  bbX=(0.65,0.68) bbY=(0.87,0.91) bbZ=(1.32,1.42)
+Object_113  verts=2547 polys=1816  bbX=(0.72,0.79) bbY=(0.13,1.05) bbZ=(1.11,1.19)
+Object_114  verts=1053 polys=754  bbX=(0.63,0.77) bbY=(0.20,0.92) bbZ=(1.04,1.48)
+Object_116  verts=1563 polys=1221  bbX=(0.81,0.86) bbY=(0.77,0.98) bbZ=(1.03,1.09)
+Object_118  verts=26872 polys=19725  bbX=(0.62,0.89) bbY=(0.09,1.10) bbZ=(0.32,1.49)
+Object_12  verts=23436 polys=12375  bbX=(-0.66,0.66) bbY=(-1.17,0.19) bbZ=(0.68,1.09)
+Object_120  verts=68 polys=35  bbX=(0.68,0.69) bbY=(0.55,0.82) bbZ=(1.02,1.03)
+Object_122  verts=37780 polys=22837  bbX=(-0.76,-0.65) bbY=(0.16,1.01) bbZ=(0.41,1.18)
+Object_123  verts=16656 polys=11513  bbX=(-0.88,-0.60) bbY=(0.08,1.05) bbZ=(0.31,1.50)
+Object_124  verts=102 polys=34  bbX=(-0.69,-0.69) bbY=(0.43,0.43) bbZ=(0.86,0.86)
+Object_125  verts=3877 polys=2479  bbX=(-0.71,-0.67) bbY=(0.35,0.89) bbZ=(0.85,1.06)
+Object_126  verts=3734 polys=2571  bbX=(-0.77,-0.63) bbY=(0.12,1.04) bbZ=(0.99,1.48)
+Object_127  verts=2197 polys=908  bbX=(-0.70,-0.64) bbY=(0.30,0.83) bbZ=(0.82,0.91)
+Object_128  verts=2219 polys=913  bbX=(-0.70,-0.64) bbY=(0.20,0.83) bbZ=(0.52,0.91)
+Object_129  verts=1810 polys=1246  bbX=(-0.72,-0.64) bbY=(0.29,0.83) bbZ=(0.82,0.91)
+Object_13  verts=1971 polys=759  bbX=(-0.11,-0.06) bbY=(-0.73,0.15) bbZ=(0.73,0.83)
+Object_130  verts=786 polys=525  bbX=(-0.71,-0.64) bbY=(0.29,0.83) bbZ=(0.81,0.91)
+Object_131  verts=15 polys=5  bbX=(-0.68,-0.65) bbY=(0.87,0.91) bbZ=(1.32,1.42)
+Object_132  verts=2547 polys=1816  bbX=(-0.79,-0.72) bbY=(0.13,1.05) bbZ=(1.11,1.19)
+Object_133  verts=1053 polys=754  bbX=(-0.77,-0.63) bbY=(0.20,0.92) bbZ=(1.04,1.48)
+Object_135  verts=26877 polys=19725  bbX=(-0.89,-0.62) bbY=(0.09,1.10) bbZ=(0.32,1.49)
+Object_137  verts=1563 polys=1221  bbX=(-0.86,-0.81) bbY=(0.77,0.98) bbZ=(1.03,1.09)
+Object_139  verts=67 polys=35  bbX=(-0.69,-0.68) bbY=(0.55,0.82) bbZ=(1.02,1.03)
+Object_14  verts=3273 polys=1433  bbX=(-0.11,0.00) bbY=(-0.73,0.15) bbZ=(0.73,0.84)
+Object_141  verts=6872 polys=3902  bbX=(-0.55,0.55) bbY=(-0.54,0.51) bbZ=(1.33,1.48)
+Object_142  verts=1349 polys=743  bbX=(-0.55,0.55) bbY=(-0.41,0.48) bbZ=(1.43,1.48)
+Object_143  verts=39275 polys=22807  bbX=(-0.55,0.55) bbY=(-0.75,0.76) bbZ=(1.31,1.49)
+Object_144  verts=2608 polys=888  bbX=(-0.45,0.45) bbY=(-0.38,0.49) bbZ=(1.41,1.47)
+Object_145  verts=47102 polys=31186  bbX=(-0.72,0.72) bbY=(-1.14,1.93) bbZ=(0.37,1.44)
+Object_146  verts=11918 polys=8523  bbX=(-0.64,0.64) bbY=(-0.56,1.39) bbZ=(1.34,1.53)
+Object_147  verts=15640 polys=11246  bbX=(-0.71,0.71) bbY=(-1.17,1.80) bbZ=(0.29,0.65)
+Object_148  verts=33 polys=14  bbX=(-0.68,0.68) bbY=(-0.73,1.70) bbZ=(0.95,1.44)
+Object_15  verts=8858 polys=3098  bbX=(-0.11,0.62) bbY=(-0.74,-0.30) bbZ=(0.75,1.01)
+Object_150  verts=2376 polys=1630  bbX=(-0.60,0.60) bbY=(0.81,1.31) bbZ=(0.52,1.15)
+Object_151  verts=6050 polys=3560  bbX=(-0.62,0.62) bbY=(0.85,0.90) bbZ=(0.69,0.81)
+Object_152  verts=1062 polys=610  bbX=(-0.59,0.59) bbY=(0.83,0.87) bbZ=(0.66,0.79)
+Object_154  verts=743 polys=440  bbX=(-0.62,0.62) bbY=(0.12,0.15) bbZ=(0.97,1.01)
+Object_155  verts=3839 polys=2246  bbX=(-0.64,0.64) bbY=(0.10,0.18) bbZ=(1.00,1.03)
+Object_156  verts=1189 polys=708  bbX=(-0.70,0.70) bbY=(0.04,0.17) bbZ=(0.37,1.30)
+Object_158  verts=22470 polys=16682  bbX=(-0.59,0.59) bbY=(0.86,1.22) bbZ=(0.54,1.31)
+Object_159  verts=17641 polys=9591  bbX=(-0.55,0.55) bbY=(0.86,1.05) bbZ=(0.54,1.08)
+Object_16  verts=357 polys=125  bbX=(-0.11,-0.02) bbY=(-0.64,-0.63) bbZ=(0.89,0.89)
+Object_160  verts=9422 polys=6411  bbX=(-0.56,0.56) bbY=(1.04,1.21) bbZ=(0.78,1.15)
+Object_161  verts=171 polys=71  bbX=(-0.56,0.56) bbY=(0.96,1.22) bbZ=(0.58,1.12)
+Object_162  verts=2452 polys=2232  bbX=(-0.50,0.50) bbY=(0.88,1.08) bbZ=(0.55,1.30)
+Object_163  verts=11876 polys=6180  bbX=(-0.56,0.56) bbY=(0.86,1.22) bbZ=(0.54,1.31)
+Object_165  verts=12000 polys=7596  bbX=(-0.63,0.63) bbY=(0.38,0.91) bbZ=(0.47,0.65)
+Object_166  verts=9667 polys=5130  bbX=(-0.58,0.58) bbY=(0.49,0.87) bbZ=(0.52,0.65)
+Object_167  verts=4520 polys=2196  bbX=(-0.17,0.16) bbY=(0.81,0.84) bbZ=(0.56,0.60)
+Object_168  verts=1874 polys=1433  bbX=(-0.53,0.53) bbY=(0.39,0.86) bbZ=(0.55,0.64)
+Object_17  verts=15 polys=5  bbX=(0.05,0.05) bbY=(-0.63,-0.63) bbZ=(0.88,0.88)
+Object_170  verts=39919 polys=25568  bbX=(-0.61,0.61) bbY=(-0.05,0.33) bbZ=(0.42,1.36)
+Object_171  verts=37748 polys=21155  bbX=(-0.58,0.58) bbY=(-0.05,0.25) bbZ=(0.52,1.36)
+Object_172  verts=10943 polys=5397  bbX=(-0.59,0.59) bbY=(0.14,0.22) bbZ=(0.99,1.35)
+Object_173  verts=3209 polys=2428  bbX=(-0.52,0.52) bbY=(0.01,0.21) bbZ=(0.54,1.34)
+Object_175  verts=19596 polys=13225  bbX=(-0.64,0.63) bbY=(-0.44,0.14) bbZ=(0.35,0.69)
+Object_176  verts=1949 polys=1076  bbX=(-0.13,0.63) bbY=(-0.26,-0.00) bbZ=(0.41,0.64)
+Object_177  verts=16444 polys=9969  bbX=(-0.61,0.63) bbY=(-0.48,0.02) bbZ=(0.35,0.61)
+Object_178  verts=2256 polys=1269  bbX=(-0.13,0.13) bbY=(-0.13,-0.09) bbZ=(0.66,0.69)
+Object_18  verts=466 polys=204  bbX=(-0.69,0.69) bbY=(-1.29,-0.73) bbZ=(0.29,1.03)
+Object_180  verts=8543 polys=5770  bbX=(-0.60,0.60) bbY=(-0.48,0.08) bbZ=(0.41,0.67)
+Object_181  verts=16475 polys=9526  bbX=(-0.57,0.57) bbY=(-0.44,0.01) bbZ=(0.53,0.67)
+Object_182  verts=2262 polys=1696  bbX=(-0.54,0.54) bbY=(-0.49,-0.02) bbZ=(0.50,0.66)
+Object_184  verts=3351 polys=2070  bbX=(-0.53,0.53) bbY=(1.23,1.76) bbZ=(1.10,1.14)
+Object_186  verts=1710 polys=1025  bbX=(0.57,0.61) bbY=(1.48,1.71) bbZ=(1.09,1.28)
+Object_188  verts=1794 polys=1038  bbX=(0.55,0.61) bbY=(1.38,1.64) bbZ=(1.15,1.36)
+Object_19  verts=78 polys=26  bbX=(0.45,0.46) bbY=(-0.52,-0.52) bbZ=(0.98,0.98)
+Object_190  verts=1710 polys=1025  bbX=(-0.62,-0.57) bbY=(1.49,1.72) bbZ=(1.10,1.29)
+Object_192  verts=1794 polys=1038  bbX=(-0.61,-0.56) bbY=(1.39,1.65) bbZ=(1.15,1.37)
+Object_194  verts=5284 polys=3724  bbX=(-0.76,0.76) bbY=(1.69,1.91) bbZ=(0.35,0.47)
+Object_196  verts=15912 polys=12051  bbX=(-0.80,0.80) bbY=(-2.29,-1.97) bbZ=(0.34,0.70)
+Object_198  verts=3371 polys=2221  bbX=(-0.84,0.84) bbY=(-2.15,-1.60) bbZ=(0.75,0.94)
+Object_199  verts=632 polys=306  bbX=(-0.82,0.82) bbY=(-1.86,-1.79) bbZ=(0.84,0.85)
+Object_200  verts=7015 polys=3742  bbX=(-0.83,0.83) bbY=(-1.92,-1.60) bbZ=(0.78,0.92)
+Object_201  verts=65533 polys=37127  bbX=(-0.84,0.84) bbY=(-2.15,-1.57) bbZ=(0.69,0.94)
+Object_202  verts=15336 polys=8257  bbX=(-0.83,-0.44) bbY=(-2.15,-1.57) bbZ=(0.69,0.94)
+Object_203  verts=650 polys=268  bbX=(-0.81,0.81) bbY=(-2.12,-1.75) bbZ=(0.82,0.90)
+Object_204  verts=55047 polys=32708  bbX=(-0.81,0.81) bbY=(-2.05,-1.77) bbZ=(0.76,0.87)
+Object_206  verts=13674 polys=8876  bbX=(-0.56,0.56) bbY=(1.37,1.94) bbZ=(0.64,1.45)
+Object_207  verts=42428 polys=29105  bbX=(-0.64,0.64) bbY=(1.27,1.68) bbZ=(1.17,1.54)
+Object_208  verts=528 polys=328  bbX=(-0.16,0.16) bbY=(1.50,1.54) bbZ=(1.45,1.48)
+Object_209  verts=16624 polys=8638  bbX=(-0.61,0.61) bbY=(1.47,2.01) bbZ=(0.84,1.41)
+Object_21  verts=36064 polys=22672  bbX=(-0.71,0.71) bbY=(-1.24,0.20) bbZ=(0.38,1.10)
+Object_210  verts=2479 polys=1893  bbX=(-0.61,0.61) bbY=(1.42,1.84) bbZ=(1.15,1.44)
+Object_211  verts=149 polys=102  bbX=(-0.64,0.63) bbY=(1.42,1.93) bbZ=(0.67,1.43)
+Object_212  verts=2222 polys=1348  bbX=(-0.57,0.57) bbY=(1.50,1.55) bbZ=(1.49,1.54)
+Object_214  verts=2962 polys=2298  bbX=(-0.64,0.64) bbY=(1.80,1.97) bbZ=(0.98,1.07)
+Object_215  verts=4894 polys=3027  bbX=(-0.63,0.63) bbY=(1.81,1.97) bbZ=(1.00,1.06)
+Object_216  verts=8689 polys=3825  bbX=(-0.63,0.63) bbY=(1.82,1.91) bbZ=(1.02,1.03)
+Object_217  verts=14921 polys=9382  bbX=(-0.64,0.64) bbY=(1.77,1.97) bbZ=(0.98,1.08)
+Object_218  verts=5697 polys=3654  bbX=(-0.63,0.63) bbY=(1.80,1.97) bbZ=(1.00,1.06)
+Object_219  verts=488 polys=256  bbX=(-0.55,0.55) bbY=(1.88,1.91) bbZ=(1.00,1.02)
+Object_221  verts=51712 polys=39233  bbX=(-0.64,0.64) bbY=(1.27,2.02) bbZ=(0.61,1.52)
+Object_223  verts=3865 polys=1923  bbX=(-0.61,0.26) bbY=(1.89,2.00) bbZ=(0.92,0.99)
+Object_225  verts=1710 polys=1025  bbX=(0.57,0.61) bbY=(1.48,1.71) bbZ=(1.09,1.28)
+Object_227  verts=1794 polys=1038  bbX=(0.55,0.61) bbY=(1.38,1.64) bbZ=(1.15,1.36)
+Object_229  verts=1710 polys=1025  bbX=(-0.62,-0.57) bbY=(1.49,1.72) bbZ=(1.10,1.29)
+Object_23  verts=9610 polys=6523  bbX=(-0.68,0.68) bbY=(-0.79,0.15) bbZ=(0.70,1.18)
+Object_231  verts=1794 polys=1038  bbX=(-0.61,-0.56) bbY=(1.39,1.65) bbZ=(1.15,1.37)
+Object_233  verts=1007 polys=794  bbX=(-0.42,0.42) bbY=(-0.24,0.33) bbZ=(1.53,1.58)
+Object_234  verts=737 polys=520  bbX=(-0.42,0.42) bbY=(-0.24,0.33) bbZ=(1.53,1.58)
+Object_25  verts=5611 polys=4140  bbX=(0.17,0.54) bbY=(-0.61,-0.46) bbZ=(0.90,1.12)
+Object_27  verts=2495 polys=1745  bbX=(-0.69,0.69) bbY=(-1.02,-0.71) bbZ=(0.94,1.08)
+Object_29  verts=2634 polys=1496  bbX=(-0.89,0.89) bbY=(-2.21,1.89) bbZ=(0.23,1.10)
+Object_30  verts=13710 polys=8556  bbX=(-0.87,0.87) bbY=(-2.29,-0.93) bbZ=(0.30,1.11)
+Object_31  verts=65533 polys=45762  bbX=(-0.90,0.90) bbY=(-2.31,2.04) bbZ=(0.19,1.47)
+Object_32  verts=7758 polys=5822  bbX=(-0.88,0.88) bbY=(1.53,2.04) bbZ=(0.25,0.62)
+Object_33  verts=11734 polys=8729  bbX=(-0.82,0.82) bbY=(-2.29,1.97) bbZ=(0.32,1.06)
+Object_34  verts=4859 polys=2713  bbX=(-0.79,0.79) bbY=(1.73,1.99) bbZ=(0.40,0.61)
+Object_35  verts=691 polys=448  bbX=(-0.08,0.08) bbY=(-2.25,-2.24) bbZ=(0.77,0.82)
+Object_37  verts=48095 polys=29941  bbX=(-0.90,0.90) bbY=(-1.55,1.34) bbZ=(0.23,0.99)
+Object_39  verts=5863 polys=4012  bbX=(-0.89,0.89) bbY=(-1.76,1.50) bbZ=(-0.01,0.68)
+Object_4  verts=2768 polys=1760  bbX=(-0.17,0.47) bbY=(-0.83,-0.67) bbZ=(0.95,1.15)
+Object_41  verts=57 polys=29  bbX=(-0.84,0.84) bbY=(-1.42,1.39) bbZ=(0.11,0.29)
+Object_42  verts=65533 polys=48448  bbX=(-0.88,0.88) bbY=(-1.67,1.41) bbZ=(0.08,0.58)
+Object_43  verts=37089 polys=26723  bbX=(-0.88,0.88) bbY=(-1.67,1.41) bbZ=(0.08,0.58)
+Object_44  verts=6665 polys=4309  bbX=(-0.82,0.82) bbY=(-1.57,1.30) bbZ=(0.18,0.49)
+Object_45  verts=36647 polys=20476  bbX=(-0.84,0.84) bbY=(-1.60,1.33) bbZ=(0.25,0.47)
+Object_47  verts=35906 polys=22151  bbX=(-0.78,0.78) bbY=(-1.50,-1.09) bbZ=(0.89,1.11)
+Object_49  verts=65533 polys=47986  bbX=(-0.90,0.90) bbY=(-2.29,1.96) bbZ=(0.27,1.50)
+Object_5  verts=4 polys=2  bbX=(-0.16,0.16) bbY=(-0.75,-0.68) bbZ=(0.97,1.14)
+Object_50  verts=65532 polys=51224  bbX=(-0.89,0.89) bbY=(-2.08,1.80) bbZ=(0.28,1.52)
+Object_51  verts=211 polys=108  bbX=(0.64,0.76) bbY=(0.94,1.10) bbZ=(1.12,1.38)
+Object_53  verts=4801 polys=3594  bbX=(-0.79,0.79) bbY=(1.51,1.83) bbZ=(0.95,1.07)
+Object_54  verts=6295 polys=3506  bbX=(-0.78,0.78) bbY=(1.54,1.81) bbZ=(0.96,1.06)
+Object_55  verts=15335 polys=9167  bbX=(-0.78,0.78) bbY=(1.52,1.81) bbZ=(0.96,1.06)
+Object_56  verts=1597 polys=902  bbX=(-0.79,0.79) bbY=(1.51,1.82) bbZ=(0.95,1.07)
+Object_57  verts=19815 polys=11631  bbX=(-0.79,0.79) bbY=(1.51,1.83) bbZ=(0.95,1.09)
+Object_59  verts=16211 polys=12242  bbX=(-0.76,0.76) bbY=(-1.10,1.35) bbZ=(1.09,1.58)
+Object_6  verts=6 polys=2  bbX=(0.25,0.46) bbY=(-0.80,-0.79) bbZ=(0.99,1.04)
+Object_60  verts=6435 polys=5174  bbX=(-0.73,0.73) bbY=(-0.46,1.47) bbZ=(1.17,1.59)
+Object_61  verts=5010 polys=3890  bbX=(-0.73,0.73) bbY=(-1.33,1.46) bbZ=(1.03,1.58)
+Object_62  verts=707 polys=486  bbX=(-0.75,0.75) bbY=(-1.34,1.46) bbZ=(1.03,1.56)
+Object_63  verts=10306 polys=6820  bbX=(-0.73,0.73) bbY=(-0.67,1.48) bbZ=(1.17,1.58)
+Object_65  verts=2850 polys=2301  bbX=(0.84,0.88) bbY=(-0.20,-0.00) bbZ=(0.96,1.03)
+Object_67  verts=20856 polys=15562  bbX=(0.63,0.89) bbY=(-0.97,0.17) bbZ=(0.29,1.49)
+Object_69  verts=39850 polys=24678  bbX=(0.65,0.77) bbY=(-0.89,0.04) bbZ=(0.41,1.22)
+Object_70  verts=14173 polys=7196  bbX=(0.67,1.01) bbY=(-0.82,-0.09) bbZ=(0.79,1.21)
+Object_71  verts=20169 polys=13773  bbX=(0.64,1.03) bbY=(-0.94,0.18) bbZ=(0.94,1.48)
+Object_72  verts=2099 polys=1478  bbX=(0.65,0.74) bbY=(-0.66,-0.05) bbZ=(0.78,0.87)
+Object_73  verts=3093 polys=1314  bbX=(0.65,1.03) bbY=(-0.92,-0.06) bbZ=(0.40,1.17)
+Object_74  verts=712 polys=480  bbX=(0.65,0.71) bbY=(-0.67,-0.06) bbZ=(0.77,0.87)
+Object_75  verts=3731 polys=1820  bbX=(0.65,0.81) bbY=(-0.78,0.05) bbZ=(0.52,0.86)
+Object_76  verts=30087 polys=18698  bbX=(0.61,0.88) bbY=(-0.95,0.18) bbZ=(0.29,1.50)
+Object_77  verts=853 polys=307  bbX=(0.67,0.71) bbY=(-0.61,-0.46) bbZ=(0.80,0.86)
+Object_78  verts=3925 polys=2702  bbX=(0.77,1.03) bbY=(-0.94,0.13) bbZ=(1.02,1.15)
+Object_79  verts=1323 polys=849  bbX=(0.97,1.03) bbY=(-0.83,-0.69) bbZ=(1.14,1.17)
+Object_8  verts=2171 polys=1393  bbX=(-0.70,0.70) bbY=(-0.80,-0.52) bbZ=(0.88,1.01)
+Object_80  verts=1230 polys=858  bbX=(0.64,0.79) bbY=(-0.79,0.13) bbZ=(0.97,1.48)
+Object_82  verts=94 polys=51  bbX=(0.70,0.70) bbY=(-0.48,-0.16) bbZ=(0.97,0.98)
+Object_84  verts=2856 polys=2301  bbX=(-0.88,-0.84) bbY=(-0.20,-0.00) bbZ=(0.96,1.03)
+Object_86  verts=20768 polys=15514  bbX=(-0.89,-0.63) bbY=(-0.97,0.17) bbZ=(0.29,1.49)
+Object_88  verts=38824 polys=24152  bbX=(-0.77,-0.65) bbY=(-0.89,0.04) bbZ=(0.41,1.22)
+Object_89  verts=5177 polys=3277  bbX=(-1.01,-0.68) bbY=(-0.82,-0.09) bbZ=(0.81,1.21)
+Object_9  verts=26048 polys=14040  bbX=(-0.69,0.69) bbY=(-0.80,0.18) bbZ=(0.58,1.04)
+Object_90  verts=20056 polys=13774  bbX=(-1.03,-0.64) bbY=(-0.94,0.18) bbZ=(0.94,1.48)
+Object_91  verts=2047 polys=1403  bbX=(-0.74,-0.65) bbY=(-0.66,-0.05) bbZ=(0.78,0.87)
+Object_92  verts=3125 polys=1316  bbX=(-1.03,-0.65) bbY=(-0.92,-0.06) bbZ=(0.40,1.17)
+Object_93  verts=718 polys=480  bbX=(-0.71,-0.65) bbY=(-0.67,-0.06) bbZ=(0.77,0.87)
+Object_94  verts=2864 polys=1224  bbX=(-0.81,-0.65) bbY=(-0.78,0.05) bbZ=(0.52,0.86)
+Object_95  verts=26557 polys=16656  bbX=(-0.88,-0.61) bbY=(-0.95,0.18) bbZ=(0.29,1.50)
+Object_96  verts=93 polys=31  bbX=(-0.70,-0.69) bbY=(-0.52,-0.52) bbZ=(0.82,0.82)
+Object_97  verts=3909 polys=2702  bbX=(-1.03,-0.77) bbY=(-0.94,0.13) bbZ=(1.02,1.15)
+Object_98  verts=1355 polys=849  bbX=(-1.03,-0.97) bbY=(-0.83,-0.69) bbZ=(1.14,1.17)
+Object_99  verts=1227 polys=858  bbX=(-0.79,-0.64) bbY=(-0.79,0.13) bbZ=(0.97,1.48)
+=== HOOD REGION MESHES ===
+[HOOD-MESH] Object_145 verts=47102 polys=31186 nonquad=31186  bbY=(-1.14,1.93) bbZ=(0.37,1.44)
+   normal: up=8659 down=8613 slight+z=3791 slight-z=3851  (朝向统计)
+[HOOD-MESH] Object_146 verts=11918 polys=8523 nonquad=8523  bbY=(-0.56,1.39) bbZ=(1.34,1.53)
+   normal: up=1426 down=1336 slight+z=1601 slight-z=1613  (朝向统计)
+[HOOD-MESH] Object_148 verts=33 polys=14 nonquad=14  bbY=(-0.73,1.70) bbZ=(0.95,1.44)
+   normal: up=2 down=2 slight+z=2 slight-z=2  (朝向统计)
+[HOOD-MESH] Object_206 verts=13674 polys=8876 nonquad=8876  bbY=(1.37,1.94) bbZ=(0.64,1.45)
+   normal: up=1605 down=1645 slight+z=1345 slight-z=1325  (朝向统计)
+[HOOD-MESH] Object_207 verts=42428 polys=29105 nonquad=29105  bbY=(1.27,1.68) bbZ=(1.17,1.54)
+   normal: up=5234 down=5249 slight+z=4910 slight-z=4998  (朝向统计)
+[HOOD-MESH] Object_209 verts=16624 polys=8638 nonquad=8638  bbY=(1.47,2.01) bbZ=(0.84,1.41)
+   normal: up=1266 down=1206 slight+z=1366 slight-z=1194  (朝向统计)
+[HOOD-MESH] Object_210 verts=2479 polys=1893 nonquad=1893  bbY=(1.42,1.84) bbZ=(1.15,1.44)
+   normal: up=186 down=193 slight+z=450 slight-z=452  (朝向统计)
+[HOOD-MESH] Object_211 verts=149 polys=102 nonquad=102  bbY=(1.42,1.93) bbZ=(0.67,1.43)
+   normal: up=0 down=0 slight+z=36 slight-z=32  (朝向统计)
+[HOOD-MESH] Object_212 verts=2222 polys=1348 nonquad=1348  bbY=(1.50,1.55) bbZ=(1.49,1.54)
+   normal: up=274 down=437 slight+z=168 slight-z=161  (朝向统计)
+[HOOD-MESH] Object_221 verts=51712 polys=39233 nonquad=39233  bbY=(1.27,2.02) bbZ=(0.61,1.52)
+   normal: up=4571 down=4745 slight+z=9309 slight-z=9108  (朝向统计)
+[HOOD-MESH] Object_31 verts=65533 polys=45762 nonquad=45762  bbY=(-2.31,2.04) bbZ=(0.19,1.47)
+   normal: up=10468 down=10508 slight+z=5564 slight-z=5595  (朝向统计)
+[HOOD-MESH] Object_49 verts=65533 polys=47986 nonquad=47986  bbY=(-2.29,1.96) bbZ=(0.27,1.50)
+   normal: up=8955 down=20252 slight+z=4215 slight-z=5940  (朝向统计)
+[HOOD-MESH] Object_50 verts=65532 polys=51224 nonquad=51224  bbY=(-2.08,1.80) bbZ=(0.28,1.52)
+   normal: up=22740 down=12140 slight+z=5643 slight-z=4015  (朝向统计)
+[HOOD-MESH] Object_59 verts=16211 polys=12242 nonquad=12242  bbY=(-1.10,1.35) bbZ=(1.09,1.58)
+   normal: up=2712 down=2640 slight+z=1347 slight-z=1412  (朝向统计)
+[HOOD-MESH] Object_60 verts=6435 polys=5174 nonquad=5174  bbY=(-0.46,1.47) bbZ=(1.17,1.59)
+   normal: up=1465 down=1475 slight+z=622 slight-z=604  (朝向统计)
+[HOOD-MESH] Object_61 verts=5010 polys=3890 nonquad=3890  bbY=(-1.33,1.46) bbZ=(1.03,1.58)
+   normal: up=676 down=674 slight+z=538 slight-z=554  (朝向统计)
+[HOOD-MESH] Object_62 verts=707 polys=486 nonquad=486  bbY=(-1.34,1.46) bbZ=(1.03,1.56)
+   normal: up=132 down=133 slight+z=52 slight-z=50  (朝向统计)
+[HOOD-MESH] Object_63 verts=10306 polys=6820 nonquad=6820  bbY=(-0.67,1.48) bbZ=(1.17,1.58)
+   normal: up=1600 down=1596 slight+z=631 slight-z=651  (朝向统计)
+=== DONE ===
+Blender 4.2.16 LTS (hash 39502cae951c built 2025-11-18 01:34:37)
+
+Blender quit

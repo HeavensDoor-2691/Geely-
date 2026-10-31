@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="吉利控股集团旗下品牌 · 缤越 COOLRAY 3D 虚拟展厅" />
+    <title>吉利汽车 3D 虚拟展厅 · 缤越 COOLRAY</title>
+  </head>
+  <body>
+    <!-- 加载屏 -->
+    <div id="loading">
+      <div class="loading-inner">
+        <div class="loading-logo">
+          <svg viewBox="0 0 64 64" width="64" height="64" aria-hidden="true">
+            <defs>
+              <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#5aa8ff" />
+                <stop offset="1" stop-color="#1e6fff" />
+              </linearGradient>
+            </defs>
+            <rect x="6" y="6" width="52" height="52" rx="14" fill="url(#lg)" />
+            <path d="M20 40 L30 24 L36 32 L44 24 L50 34" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+            <circle cx="24" cy="42" r="3" fill="#fff"/>
+            <circle cx="40" cy="42" r="3" fill="#fff"/>
+          </svg>
+        </div>
+        <h1 class="loading-title">吉利汽车 · 虚拟展厅</h1>
+        <p class="loading-sub">GEELY AUTO 3D SHOWROOM</p>
+        <div class="loading-bar">
+          <div class="loading-fill" id="loadingFill"></div>
+        </div>
+        <p class="loading-text" id="loadingText">正在加载展厅模型…</p>
+      </div>
+    </div>
+
+    <!-- 3D 画布挂载点 -->
+    <div id="app"></div>
+
+    <!-- 顶部品牌栏 -->
+    <header id="topbar">
+      <div class="brand">
+        <div class="brand-logo">GEELY</div>
+        <div class="brand-meta">
+          <span class="brand-name">吉利控股集团</span>
+          <span class="brand-sub">缤越 COOLRAY · 3D 虚拟展厅</span>
+        </div>
+      </div>
+      <nav class="top-nav">
+        <button class="nav-btn" data-action="brand">品牌介绍</button>
+        <button class="nav-btn" data-action="specs">车型参数</button>
+        <button class="nav-btn" data-action="reset">重置视角</button>
+      </nav>
+    </header>
+
+    <!-- 视角控制（底部） -->
+    <div id="view-controls">
+      <button class="vc-btn active" data-view="orbit" title="第三人称环绕观察">
+        <span class="vc-ico">◉</span><span>环绕视角</span>
+      </button>
+      <button class="vc-btn" data-view="first" title="第一人称展厅漫游 (WASD+鼠标)">
+        <span class="vc-ico">⌖</span><span>第一人称</span>
+      </button>
+      <button class="vc-btn" data-view="interior" title="车内内饰视角">
+        <span class="vc-ico">▦</span><span>内饰视角</span>
+      </button>
+      <button class="vc-btn" data-view="tour" title="自动环馆漫游">
+        <span class="vc-ico">➤</span><span>自动漫游</span>
+      </button>
+    </div>
+
+    <!-- 配置面板（右下） -->
+    <aside id="config-panel">
+      <div class="cp-head">
+        <span>个性化配置</span>
+        <button class="cp-close" id="cpClose" title="收起">‹</button>
+      </div>
+
+      <div class="cp-section">
+        <h4>车身颜色</h4>
+        <div class="swatches" id="paintSwatches">
+          <button class="swatch" data-color="#6b6276" style="background:#6b6276" title="紫曜灰"></button>
+          <button class="swatch" data-color="#e8ecf2" style="background:#e8ecf2" title="珍珠白"></button>
+          <button class="swatch" data-color="#7f8ea8" style="background:#7f8ea8" title="星云灰"></button>
+          <button class="swatch" data-color="#2f6fe4" style="background:#2f6fe4" title="极光蓝"></button>
+          <button class="swatch" data-color="#c0333c" style="background:#c0333c" title="曜日红"></button>
+          <button class="swatch" data-color="#3b3a3f" style="background:#3b3a3f" title="石墨灰"></button>
+        </div>
+      </div>
+
+      <div class="cp-section">
+        <h4>轮毂样式</h4>
+        <div class="seg" id="wheelSeg">
+          <button class="seg-btn" data-wheel="silver">亮银</button>
+          <button class="seg-btn" data-wheel="black">曜黑</button>
+          <button class="seg-btn" data-wheel="sport">运动双色</button>
+        </div>
+      </div>
+
+      <div class="cp-section">
+        <h4>展车状态</h4>
+        <div class="seg" id="doorSeg">
+          <button class="seg-btn" data-door="close">关闭车门</button>
+          <button class="seg-btn" data-door="open">开启车门</button>
+        </div>
+      </div>
+
+      <div class="cp-section cp-legend">
+        <p>🖱️ 左键拖拽旋转 · 滚轮缩放 · 右键平移</p>
+        <p>⌨️ 第一人称：WASD 移动 · 鼠标转向 · Shift 加速</p>
+      </div>
+    </aside>
+
+    <!-- 信息弹层（品牌介绍 / 车型参数 / 热点详情 共用） -->
+    <div class="modal-mask" id="modalMask" hidden>
+      <div class="modal" id="modal">
+        <button class="modal-close" id="modalClose">×</button>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
